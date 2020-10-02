@@ -15,6 +15,7 @@ namespace RepositoryDemo.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //This is for testing
             _logger = logger;
         }
 
